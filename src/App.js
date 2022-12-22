@@ -1,9 +1,10 @@
+import ValidateForm from "./components/ValidateForm";
 
 function App() {
+
   return (
-    <div className="App">
-      hello world
-    </div>
+    
+    <ValidateForm />
   );
 }
 
